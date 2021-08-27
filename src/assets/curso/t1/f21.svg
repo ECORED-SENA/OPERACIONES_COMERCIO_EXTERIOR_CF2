@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="81" viewBox="0 0 81 81">
+  <g id="Grupo_146956" data-name="Grupo 146956" transform="translate(-377 -9038.824)">
+    <g id="Rectángulo_34493" data-name="Rectángulo 34493" transform="translate(377 9038.824)" fill="none" stroke="#000" stroke-width="1">
+      <rect width="81" height="81" stroke="none"/>
+      <rect x="0.5" y="0.5" width="80" height="80" fill="none"/>
+    </g>
+    <g id="Grupo_102722" data-name="Grupo 102722" transform="translate(-197.119 7746.548)">
+      <path id="Trazado_159166" data-name="Trazado 159166" d="M624.193,1329.328v-12.944H609.63l-8.091,29.357s5.086-.231,5.78,2.543h32.593v-14.1H617.489" transform="translate(1.984 0.624)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_285" data-name="Línea 285" x2="35.367" y2="28.663" transform="translate(598.669 1322.324)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_286" data-name="Línea 286" x1="29.819" y2="6.472" transform="translate(592.891 1326.485)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_159167" data-name="Trazado 159167" d="M606.76,1311.922,595.9,1350.987h-8.553" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Elipse_5031" data-name="Elipse 5031" cx="3.784" cy="3.784" r="3.784" transform="translate(601.927 1346.061)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Elipse_5032" data-name="Elipse 5032" cx="3.784" cy="3.784" r="3.784" transform="translate(627.422 1346.061)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

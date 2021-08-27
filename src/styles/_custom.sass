@@ -1,0 +1,184 @@
+$fucsia: #F739A8
+
+$crd-icon-size: 120px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2))
+  
+._81px
+  width: 81px
+
+.crd_01 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+  //background-color: pink
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #c9c9c9
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2  
+
+.br12
+  border-radius: 12px !important
+
+.fcs
+  background-color: $color-secundario !important
+
+.fcs25
+  background-color: rgba(69,25,145,.25) !important
+
+.cajon-b.color-acento-contenido
+  &::before
+    background-color: #36A3F7
+    opacity: .17
+
+.cajon.color-acento-contenido, .cfac25
+  background-color: rgba(54,163,247,.25) !important
+
+.cac
+  color: $color-acento-contenido !important
+
+.cs
+  color: $color-secundario !important
+
+.tabs-b.color-acento-contenido
+  .tabs-b__tab--active
+    border-top-color: $fucsia !important
+
+.fcac
+  background-color: rgba(54,163,247,1) !important
+
+.fcac10
+  background-color: rgba(54,163,247,.1)
+
+.fcac25
+  background-color: rgba(54,163,247,.25)
+
+.noborder
+  border: none !important
+
+@media screen and ( min-width: 991px)
+  .contenedor
+    margin-left: -3rem
+    margin-right: -3rem
+    padding: 3rem 3rem 3rem 3rem
+
+  .contenedorTraslapeInferior
+    margin-top: -3rem
+    margin-left: -3rem
+    margin-right: -3rem
+    margin-bottom: -18rem
+    padding: 3rem 3rem 18rem 3rem
+
+  .contenedorTraslapeSuperior
+    margin-top: -18rem
+    margin-left: -3rem
+    margin-right: -3rem
+    padding: 18rem 3rem 3rem 3rem
+
+  .fcac25.traslapeTB
+    margin-top: 38rem
+    margin-left: -3rem
+    margin-right: -3rem
+    margin-bottom: -18rem
+    padding: 38rem 3rem 18rem 3rem
+
+.cajon.color-primario, .fcp25
+  background-color: rgba(220,156,232,.25) !important
+
+.tarjeta-avatar
+  .bordeSuperior.cac
+    display: inline-block
+    padding-top: 60px !important
+    height: 100%
+    border-top: 5px solid $color-acento-contenido
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.25)
+
+.fblanco
+  background-color: $white !important
+
+.bg-tarjetas
+  background-image: url(../assets/curso/bg-tarjetas.svg)
+  background-position: bottom right
+  background-size: contain
+  background-repeat: no-repeat
+
+.bg-tarjetas2
+  background-image: url(../assets/curso/bg-tarjetas2.svg)
+  background-position: bottom right
+  background-size: contain
+  background-repeat: no-repeat
+
+.cajon-b.color-primario
+  &::before
+    background-color: $fucsia
+    opacity: .17
+
+.himg1
+  min-width: 320px
+  min-height: 160px
+  background-image: url(../assets/curso/lb-bg.jpg)
+  background-repeat: no-repeat
+  transition: .25s
+  background-position: top right
+  margin-bottom: 1rem
+  border-radius: 1rem
+  background-size: cover
+  h1
+    color: #C4C8CE
+  &:hover
+    background-image: url(../assets/curso/lb-bg-hover.jpg)
+    h1
+      color: #6D4BA9
+    h4
+      color: $white
+
+.tarjeta.color-primario--op12
+  background-color: rgba(220,156,232,.12) !important
+
+.tabs-a__tab
+  background-color: #e8e8e8 !important
+  &__selected, &:hover
+    background-color: $color-secundario !important
+
+.dottedHr
+  border-bottom: dashed 2px $color-acento-contenido
+  width: 88%
+  margin: 1.5rem auto
+
+.h11rem
+  min-height: 11rem
+
+.tabs-c__tab--active
+  font-weight: 700
+
+.slyder__btn
+  &:hover
+    background-color: $color-secundario !important
+    i
+      filter: invert(1)
+
+button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type='reset']:hover, [type='reset']:focus, [type='submit']:hover, [type='submit']:focus
+  background-color: $color-secundario
+
+.w100
+  min-width: 100%

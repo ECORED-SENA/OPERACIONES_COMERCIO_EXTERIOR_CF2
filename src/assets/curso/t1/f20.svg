@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="81" viewBox="0 0 81 81">
+  <g id="Grupo_146955" data-name="Grupo 146955" transform="translate(-377 -8942)">
+    <g id="Rectángulo_34488" data-name="Rectángulo 34488" transform="translate(377 8942)" fill="none" stroke="#000" stroke-width="1">
+      <rect width="81" height="81" stroke="none"/>
+      <rect x="0.5" y="0.5" width="80" height="80" fill="none"/>
+    </g>
+    <g id="Grupo_102719" data-name="Grupo 102719" transform="translate(398 8950)">
+      <path id="Trazado_159165" data-name="Trazado 159165" d="M91.416,1796.476l-11.474,10.416L68.55,1850.509l-11.555,3.581" transform="translate(-56.994 -1796.476)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_282" data-name="Línea 282" x2="23.721" y2="21.239" transform="translate(13.956 18.228)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_283" data-name="Línea 283" x1="36.863" y2="12.45" transform="translate(1.302 24.331)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_284" data-name="Línea 284" x2="30.272" transform="translate(1.546 64.124)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Elipse_5030" data-name="Elipse 5030" cx="5.411" cy="5.411" r="5.411" transform="translate(17.211 46.791)"/>
+    </g>
+  </g>
+</svg>

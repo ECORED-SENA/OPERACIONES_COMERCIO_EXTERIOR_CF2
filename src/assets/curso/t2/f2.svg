@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="629" height="495" viewBox="0 0 629 495">
+  <g id="Grupo_120721" data-name="Grupo 120721" transform="translate(-233 -925)">
+    <rect id="Rectángulo_34424" data-name="Rectángulo 34424" width="629" height="495" transform="translate(233 925)" fill="#f6f6f6"/>
+    <g id="Grupo_120720" data-name="Grupo 120720" transform="translate(16.458 -13)">
+      <text id="Transporte" transform="translate(488 971)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-39.547" y="17">Transporte</tspan></text>
+      <text id="Define" transform="translate(345 1334)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-22.566" y="17">Define</tspan></text>
+      <text id="Define-2" data-name="Define" transform="translate(648 1334)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-22.566" y="17">Define</tspan></text>
+      <rect id="Rectángulo_34578" data-name="Rectángulo 34578" width="108" height="32" rx="16" transform="translate(333 1027)" fill="#f739a8"/>
+      <rect id="Rectángulo_34579" data-name="Rectángulo 34579" width="108" height="32" rx="16" transform="translate(619 1027)" fill="#f739a8"/>
+      <path id="Trazado_185930" data-name="Trazado 185930" d="M-372.085-10603.5h-49.374v251.693h35.521" transform="translate(732 11697)" fill="none" stroke="#707070" stroke-width="1"/>
+      <path id="Trazado_185931" data-name="Trazado 185931" d="M-421.458-10603.5h49.374v251.693h-35.521" transform="translate(1123.772 11697)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Grupo_120718" data-name="Grupo 120718">
+        <text id="Como" transform="translate(345 1084)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-21.344" y="17">Como</tspan></text>
+        <line id="Línea_349" data-name="Línea 349" y2="28" transform="translate(388.5 1059.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Línea_350" data-name="Línea 350" y2="28" transform="translate(388.5 1105)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g id="Grupo_120719" data-name="Grupo 120719" transform="translate(285)">
+        <text id="Como-2" data-name="Como" transform="translate(345 1084)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-21.344" y="17">Como</tspan></text>
+        <line id="Línea_349-2" data-name="Línea 349" y2="28" transform="translate(388.5 1059.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Línea_350-2" data-name="Línea 350" y2="28" transform="translate(388.5 1105)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <path id="Trazado_185932" data-name="Trazado 185932" d="M-345-10673v-16.025H-58.2V-10673" transform="translate(732 11700)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Línea_351" data-name="Línea 351" y1="20" transform="translate(530.5 990.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Línea_352" data-name="Línea 352" x2="243" transform="translate(402.5 1343.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Grupo_120717" data-name="Grupo 120717" transform="translate(-11)">
+        <rect id="Rectángulo_34582" data-name="Rectángulo 34582" width="209" height="113" rx="16" transform="translate(432 1287)" fill="#451991"/>
+        <text id="Preparación_de_la_carga_según_el_envase_el_cubicaje_y_el_embalaje._" data-name="Preparación de la carga según el envase, el cubicaje y el embalaje. " transform="translate(450 1310)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-83.91" y="17">Preparación de la carga </tspan><tspan x="-66.73" y="41">según el envase, el </tspan><tspan x="-80.258" y="65">cubicaje y el embalaje. </tspan></text>
+      </g>
+      <rect id="Rectángulo_34580" data-name="Rectángulo 34580" width="108" height="113" rx="16" transform="translate(333 1133)" fill="#36a3f7"/>
+      <rect id="Rectángulo_34581" data-name="Rectángulo 34581" width="108" height="113" rx="16" transform="translate(616 1133)" fill="#36a3f7"/>
+      <text id="Aéreo_Marítimo_Carretero_o_Ferrovario" data-name="Aéreo
+Marítimo
+Carretero o
+Ferrovario" transform="translate(345 1141)" fill="#f3f9ff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-20.965" y="17">Aéreo</tspan><tspan x="-32.148" y="41">Marítimo</tspan><tspan x="-39.797" y="65">Carretero o</tspan><tspan x="-35.879" y="89">Ferrovario</tspan></text>
+      <text id="Avión_Barco_Camiones_Tren" data-name="Avión
+Barco
+Camiones
+Tren" transform="translate(627 1144)" fill="#f3f9ff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-19.816" y="17">Avión</tspan><tspan x="-20.715" y="41">Barco</tspan><tspan x="-35.852" y="65">Camiones</tspan><tspan x="-15.84" y="89">Tren</tspan></text>
+      <text id="MODOS" transform="translate(345 1033)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-27.977" y="17">MODOS</tspan></text>
+      <text id="MEDIOS" transform="translate(633 1033)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-29.199" y="17">MEDIOS</tspan></text>
+    </g>
+  </g>
+</svg>

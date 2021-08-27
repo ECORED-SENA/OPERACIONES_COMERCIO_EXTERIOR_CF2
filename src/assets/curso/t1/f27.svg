@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="81" viewBox="0 0 81 81">
+  <g id="Grupo_146962" data-name="Grupo 146962" transform="translate(-377 -9621)">
+    <g id="Rectángulo_34503" data-name="Rectángulo 34503" transform="translate(377 9621)" fill="none" stroke="#000" stroke-width="1">
+      <rect width="81" height="81" stroke="none"/>
+      <rect x="0.5" y="0.5" width="80" height="80" fill="none"/>
+    </g>
+    <g id="Grupo_102728" data-name="Grupo 102728" transform="translate(-195.139 7887.398)">
+      <ellipse id="Elipse_5033" data-name="Elipse 5033" cx="6.45" cy="8.186" rx="6.45" ry="8.186" transform="translate(606.139 1745.489)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <ellipse id="Elipse_5034" data-name="Elipse 5034" cx="6.45" cy="8.186" rx="6.45" ry="8.186" transform="translate(606.139 1768.643)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <ellipse id="Elipse_5035" data-name="Elipse 5035" cx="6.45" cy="8.186" rx="6.45" ry="8.186" transform="translate(606.139 1790.156)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_291" data-name="Línea 291" y2="8.765" transform="translate(612.589 1741.602)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_292" data-name="Línea 292" y2="13.065" transform="translate(612.589 1758.636)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Línea_293" data-name="Línea 293" y2="12.403" transform="translate(612.589 1782.12)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
