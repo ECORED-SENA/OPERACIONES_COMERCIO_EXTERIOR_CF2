@@ -122,26 +122,108 @@ export default {
   },
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Asonav. (2020). <em>Autoridad marítima, legislación aduanera, sector portuario, términos que hacen parte del Comercio Exterior vigente</em>.',
+      link: 'https://www.asonav.org/documentos/',
+    },
+
+    {
+      referencia:
+        'Baca, E. (2009). <em>Legislación y normatividad internacional para envases y embalaje</em>.',
+      link:
+        'https://idoc.pub/documents/legislacion-y-normatividad-internacional-para-envases-y-embalajes-logistica-internaciona-pnxkzoxozg4v ',
+    },
+
+    {
+      referencia:
+        'Cooper, B., Bowersox, D. y Closs, M. (2007). <em>Administración y logística de la cadena suministro</em>. México: McGraw Hill.',
+    },
+
+    {
+      referencia:
+        'ITENE. (2007). <em>Guía práctica para el diseño de empaques y embalajes</em>.',
+      link:
+        'https://www.itene.com/rs/810/d112d6ad-54ec-438b-9358-4483f9e98868/f8b/filename/guia-diseno-envases-embalajes.pdf ',
+    },
+
+    {
+      referencia: 'Ministerio de Transporte. <em>Decreto 1079 de 2015</em>.',
+      link: 'https://www.mintransporte.gov.co',
+    },
+
+    {
+      referencia: 'Ministerio de Transporte. <em>Resolución 2498 de 2018</em>.',
+      link:
+        'https://www.mintransporte.gov.co/publicaciones/9854/ministerio-de-transporte-pone-a-disposicion-para-comentarios-de-la-ciudadania-la-modificacion-de-la-resolucion-2498-que-busca-beneficiar-a-los-transportadores-de-carga-liviana/',
+    },
+
+    {
+      referencia:
+        'Mira, D. (2015). <em>Manual del Transporte de Mercancías</em> (3ra Edición ed.). Barcelona, España: Marge Book. ',
+      link:
+        'https://www-alphaeditorialcloud-com.bdigital.sena.edu.co/reader/manual-del-transporte-de-mercancias?location=3',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Acuerdo comercial',
+      significado:
+        'Entendimiento bilateral, plurilateral o multilateral entre Estados, que puede ser de cooperación internacional o de integración internacional.',
+    },
+    {
+      termino: 'Almacenamiento',
+      significado:
+        'Depósito de mercancías bajo el control de la autoridad aduanera en depósitos de carácter público o privado, habilitados por la Dirección de Impuestos y Aduanas Nacionales.',
+    },
+    {
+      termino: 'Autoridad aduanera',
+      significado:
+        'Persona de la administración aduanera que en virtud de la ley y en ejercicio de sus funciones ejerce la potestad aduanera.',
+    },
+    {
+      termino: 'Medio de transporte',
+      significado:
+        'Cualquier nave, aeronave, vagón de ferrocarril o vehículo de transporte por carretera, incluidos los remolques y semirremolques, cuando están incorporados a un tractor o a otro vehículo móvil.',
     },
   ],
   complementario: [
     {
-      texto: '',
-      tipo: 'Video',
-      link: '',
+      texto:
+        'Baca, E. (2009). Legislación y normatividad internacional para envases y embalaje.',
+      tipo: 'Cartilla',
+      link:
+        'https://idoc.pub/documents/legislacion-y-normatividad-internacional-para-envases-y-embalajes-logistica-internaciona-pnxkzoxozg4v ',
     },
     {
-      texto: '',
+      texto:
+        'ITENE. (2007). Guía práctica para el diseño de empaques y embalajes.',
+      tipo: 'Guía',
+      link:
+        'https://www.itene.com/rs/810/d112d6ad-54ec-438b-9358-4483f9e98868/f8b/filename/guia-diseno-envases-embalajes.pdf ',
+    },
+    {
+      texto: 'Ministerio de Transporte. Decreto 1079 de 2015.',
       tipo: 'Página web',
-      descarga: '',
+      link: 'https://www.mintransporte.gov.co',
+    },
+    {
+      texto: 'Ministerio de Transporte. Resolución 2498 de 2018.',
+      tipo: 'Página web',
+      link:
+        'https://www.mintransporte.gov.co/publicaciones/9854/ministerio-de-transporte-pone-a-disposicion-para-comentarios-de-la-ciudadania-la-modificacion-de-la-resolucion-2498-que-busca-beneficiar-a-los-transportadores-de-carga-liviana/',
+    },
+    {
+      texto:
+        'Legicomex. (s.f.). Tipos de carga, regularizado por Legicomex. Biblioteca SENA',
+      tipo: 'Biblioteca SENA',
+      link:
+        'https://login.bdigital.sena.edu.co/login?url=https://www.legiscomex.com/Documentos/TIPOSDECARGA',
+    },
+    {
+      texto:
+        'Asonav. (2020). Autoridad marítima, legislación aduanera, sector portuario, términos que hacen parte del Comercio Exterior vigente.',
+      tipo: 'Página web',
+      link: 'https://www.asonav.org/documentos/',
     },
   ],
   creditos: {
@@ -157,7 +239,28 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Nelly Parra Guarín´',
+        cargo: 'Experta Temática´',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital´',
+      },
+      {
+        nombre: 'María Inés Machado López´',
+        cargo: 'Diseñadora Instruccional´',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital´',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia´',
+        cargo: 'Revisor Metodológico y Pedagógico´',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital´',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda ´',
+        cargo: 'Revisión y corrección de estilo´',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital´',
       },
     ],
     desarrolloProducto: [
@@ -181,6 +284,12 @@ export default {
       {
         nombre: 'Walter Roa Serrano',
         cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Mauricio Santaella',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },

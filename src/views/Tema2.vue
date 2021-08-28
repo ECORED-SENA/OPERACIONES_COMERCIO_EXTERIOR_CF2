@@ -7,7 +7,7 @@
         span 2
       h1 Modos y medios de transporte, conceptos de operación 
     .row.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos='fade-right')
         img(src='@/assets/curso/t2/f1.png' alt='imagen relacionada')
       .col-lg-8
         p A medida que los sistemas de transporte y logística sigan integrándose, su impacto en el entorno físico (aire, agua y recursos terrestres) será más complejo. La globalización económica, la agilidad en la fabricación, la rapidez de la entrega y la administración en la cadena logística, están creando una mayor demanda de servicios de transporte intermodal y de infraestructuras de transporte multimodal. Para hacer frente a los impactos ambientales, el sector del transporte, sus clientes y partes interesadas deberán pasar de estrategias basadas en el cumplimiento de la normativa a otras que hagan hincapié en la gestión ambiental proactiva. 
@@ -15,9 +15,9 @@
           p.mb-0 Los modos y medios de transporte manejan una serie de variables significativas al momento de fijar costos; por lo anterior, se hace necesario contar con una empresa operadora que atienda los requisitos de transporte según el producto, red de distribución acertada, además del cumpliendo normatividad vigente.
     #t_2_1.titulo-secundario
       h2 2.1 Características de modos y medios de transporte
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
+    .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
-        .col-lg-5.mb-4.mb-lg-0
+        .col-lg-5.mb-4.mb-lg-0(data-aos='fade-right')
           .titulo-sexto.color-acento-contenido
             span Características de los modos y medios de transporte
           img(src='@/assets/curso/t2/f2.svg' alt='imagen relacionada')
@@ -26,7 +26,7 @@
             p Los sistemas de cómo se moviliza la mercancía de un lugar a otro se denomina modo. Está dado por la combinación de redes, de vehículos y operaciones. Ahora el tipo de vehículo requerido para el transporte de carga se conoce como medio y es de acuerdo al modo seleccionado; puede ser camión, buque, avión y tren.
     .cajon-b.p-4.mb-5
       p.mb-0 Para seleccionar el modo de transporte adecuado, se debe tener en cuenta la capacidad de carga y los modos que se puedan utilizar, evaluando aspectos que describen la comparación y alternativas para estructurar los costos, entre ellos se encuentra la velocidad de circulación, disponibilidad, confiabilidad, capacidad y frecuencia. Algunos de estos elementos presentes para realizar el análisis de las diferentes alternativas que hay, son: 
-    .col-lg-4.mx-auto.mb-5
+    .col-lg-4.mx-auto.mb-5(data-aos='flip-left')
       .titulo-sexto.color-acento-contenido
         span Elementos según modos y medios 
       figure
@@ -77,7 +77,7 @@
     p.mb-5 Los encargados de coordinar y organizar los embarques, consolidar carga según acuerdos legales en el territorio son los agentes de carga. 
     .col-lg-11.mx-auto.mb-5
       .row.align-items-end
-        .col-lg-6
+        .col-lg-6(data-aos='fade-right')
           .titulo-sexto.color-acento-contenido
             span Agentes de carga
           img(src='@/assets/curso/t2/f6.png' alt='imagen relacionada')
@@ -100,49 +100,53 @@
                 .himg1.p-4
                   h4.mb-0(style='margin-top:80px;position:relative') Agente de carga ferroviarios
     p.mb-5 Existen diferentes tipos de agentes de carga, de acuerdo con los modos de transporte de la mercancía:
+    .dottedHr
     .row.justify-content-between.mb-5#1
       .col-auto
       .col-lg-1
         a(:href="obtenerLink('#/curso/tema2/#t_2_3')")
           img(src='@/assets/curso/up.svg' alt='Imagen relacionada' style='max-width:38px').mx-auto
     .row.mb-5
-      .col-lg-5
+      .col-lg-5(data-aos='fade-right')
         img(src='@/assets/curso/t2/f7.png' alt='imagen relacionada').mb-4
       .col-lg-7
         h3 Agente de carga marítimo
         p Es el encargado de transportar mercancía a través del mar y son los entes autorizados de manejo de las legislaciones nacionales para su intermediación ante las autoridades portuarias y marítimas en el manejo de la carga por este modo.
     img(src='@/assets/curso/t2/f8alt.jpg' alt='imagen relacionada').mb-4
+    .dottedHr
     .row.justify-content-between.mb-5#2 
       .col-auto
       .col-lg-1
         a(:href="obtenerLink('#/curso/tema2/#t_2_3')")
           img(src='@/assets/curso/up.svg' alt='Imagen relacionada' style='max-width:38px').mx-auto
     .row.mb-5
-      .col-lg-5
+      .col-lg-5(data-aos='fade-right')
         img(src='@/assets/curso/t2/f9.jpg' alt='imagen relacionada').mb-4
       .col-lg-7
         h3 Agente de carga aérea
         p Encargados de brindar apoyo y asesoría en el transporte aéreo, deben ser certificados Agencia Internacional de Agentes de Carga Aérea (IATA) Ofrecen asesoría en rutas, documentación, capacidad de carga dentro del avión, entrega de producto y acompañamiento hasta destino final.
         .cajon.color-acento-contenido.p-4
           p.mb-0 Los agentes de carga marítima y aéreo, pueden cumplir la función de consolidar la carga de un mismo destino, para despachar las mercancías en bloque con una sola guía aérea o un solo conocimiento de embarque y con un solo transportador. Esta labor resulta de mucha utilidad, pues el agente logra una tarifa especial, ya que maneja pesos y volúmenes de mayor tamaño.
+    .dottedHr
     .row.justify-content-between.mb-5#3 
       .col-auto
       .col-lg-1
         a(:href="obtenerLink('#/curso/tema2/#t_2_3')")
           img(src='@/assets/curso/up.svg' alt='Imagen relacionada' style='max-width:38px').mx-auto
     .row.mb-5
-      .col-lg-5
+      .col-lg-5(data-aos='fade-right')
         img(src='@/assets/curso/t2/f10.jpg' alt='imagen relacionada').mb-4
       .col-lg-7
         h3 Agente de carga terrestre
         p Este agente debe asegurar que el envío de la carga se ajuste a todas las normas a nivel nacional; para el caso de Colombia, es el Ministerio de Transporte, además le presta ayuda al cliente para el traslado de la mercancía por vía terrestre y las transacciones fronterizas.
+    .dottedHr
     .row.justify-content-between.mb-5#4
       .col-auto
       .col-lg-1
         a(:href="obtenerLink('#/curso/tema2/#t_2_3')")
           img(src='@/assets/curso/up.svg' alt='Imagen relacionada' style='max-width:38px').mx-auto
     .row.mb-5
-      .col-lg-5
+      .col-lg-5(data-aos='fade-right')
         img(src='@/assets/curso/t2/f11.jpg' alt='imagen relacionada').mb-4
       .col-lg-7
         h3 Agentes de carga ferroviarios
@@ -167,7 +171,7 @@
         i.fas.fa-check.cs.ms-4
         | Que se practiquen los valores de honestidad, ética, justicia, entre otros. 
     .row
-      .col-lg-5
+      .col-lg-5(data-aos='fade-right')
         img(src='@/assets/curso/t2/f12.jpg' alt='imagen relacionada').mb-4
       .col-lg-7
         .cajon-b.color-primario.p-4

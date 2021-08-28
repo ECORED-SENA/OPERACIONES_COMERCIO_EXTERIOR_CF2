@@ -7,59 +7,59 @@
         span 1
       h1 Medios y modos de transporte según normativa
     .row.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos='fade-right')
         img(src='@/assets/curso/t1/f1.png' alt='Medios de transporte')
       .col-lg-8
         p Para poder definir las formas de transportación se debe conocer en primera instancia los tipos de productos (características, peso, compatibilidad, etc.) así como la operación logística del transporte (sitios, frecuencia, volúmenes y pesos) con el objeto de escoger la manera apropiada para un adecuado transporte, en función de la naturaleza de la carga, la normatividad, las economías de escala de costos y los tiempos de entrega, todo esto deberá ser una de las prioridades cuando se habla de traslado. 
         .cajon.color-primario.p-4
           p.mb-0 Con el fin de entrar en tema, el reconocimiento de los modos y medios de transporte es necesario. Por ello, le invitamos a revisarlos a continuación:
-    SlyderA.p-5.sbg1
-        .row.p-4
-          .col-md-6.mb-4.mb-md-0
-            h3 Modos y medios de transporte
-            p Los <b>modos</b> de transporte, se refiere a los sistemas para la movilización, son utilizados en el traslado de la mercancía desde el punto de origen al punto de destino. Combinan redes, vehículos y operaciones. 
-            p Por su parte, los <b>medios</b> de transporte hacen referencia al tipo vehículos requerido para la transportación de acuerdo con el modo escogido que puede ser avión, barco, camión y tren.
-          .col-md-6
-            figure
-              img(src='@/assets/curso/t1/f2.png' alt='Medios de transporte')
-        .row.p-4
-          .col-md-6.mb-4.mb-md-0
-            h3 Modo terrestre
-            p Es muy versátil. Por su velocidad frente a la capacidad para prestar servicio puerta a puerta , este modo es el más asequible para cualquier tipo de empresa.
-            h4 Medios:
-            p Camiones, Camionetas, Carros Tanques, Camabajas niñeras
-          .col-md-6
-            figure
-              img(src='@/assets/curso/t1/f3.png' alt='Medios de transporte')
-        .row.p-4
-          .col-md-6.mb-4.mb-md-0
-            h3 Modo marítimo
-            p Tienen ventajas sobre los otros modos, ya que pueden cargar embarques de grandes dimensiones y peso. Este modo de transporte es el de más bajo costo para movilización de mercancías al exterior.
-            h4 Medios:
-            p Buques petroleros, portacontenedores, buques graneleros, buques frigoríficos, buques carga general.
-          .col-md-6
-            figure
-              img(src='@/assets/curso/t1/f4.png' alt='Medios de transporte')
-        .row.p-4
-          .col-md-6.mb-4.mb-md-0
-            h3 Modo aéreo
-            p Es el más veloz, también resulta el más costoso de todos los medios de transporte; principalmente por el ahorro de tiempo en la operación. Se hace indispensable en envíos urgentes principalmente para mercancías perecederas o de alto valor.
-            h4 Medios:
-            p Avión, helicoptero.
-          .col-md-6
-            figure
-              img(src='@/assets/curso/t1/f5.svg' alt='Medios de transporte')
-        .row.p-4
-          .col-md-6.mb-4.mb-md-0
-            h3 Modo férreo o ferroviario
-            p Entre las ventajas tenemos la capacidad para considerables volúmenes, sus costoso son los más bajos de todos y la gran desventaja para el comercio exterior es la infraestructura limitada en algunos países.
-            h4 Medios:
-            p Tren-ferrocarril
-          .col-md-6
-            figure
-              img(src='@/assets/curso/t1/f6.svg' alt='Medios de transporte')
+    SlyderA.p-5.sbg1.mb-5
+      .row.p-4
+        .col-md-6.mb-4.mb-md-0
+          h3 Modos y medios de transporte
+          p Los <b>modos</b> de transporte, se refiere a los sistemas para la movilización, son utilizados en el traslado de la mercancía desde el punto de origen al punto de destino. Combinan redes, vehículos y operaciones. 
+          p Por su parte, los <b>medios</b> de transporte hacen referencia al tipo vehículos requerido para la transportación de acuerdo con el modo escogido que puede ser avión, barco, camión y tren.
+        .col-md-6
+          figure
+            img(src='@/assets/curso/t1/f2.png' alt='Medios de transporte')
+      .row.p-4
+        .col-md-6.mb-4.mb-md-0
+          h3 Modo terrestre
+          p Es muy versátil. Por su velocidad frente a la capacidad para prestar servicio puerta a puerta , este modo es el más asequible para cualquier tipo de empresa.
+          h4 Medios:
+          p Camiones, Camionetas, Carros Tanques, Camabajas niñeras
+        .col-md-6
+          figure
+            img(src='@/assets/curso/t1/f3.png' alt='Medios de transporte')
+      .row.p-4
+        .col-md-6.mb-4.mb-md-0
+          h3 Modo marítimo
+          p Tienen ventajas sobre los otros modos, ya que pueden cargar embarques de grandes dimensiones y peso. Este modo de transporte es el de más bajo costo para movilización de mercancías al exterior.
+          h4 Medios:
+          p Buques petroleros, portacontenedores, buques graneleros, buques frigoríficos, buques carga general.
+        .col-md-6
+          figure
+            img(src='@/assets/curso/t1/f4.png' alt='Medios de transporte')
+      .row.p-4
+        .col-md-6.mb-4.mb-md-0
+          h3 Modo aéreo
+          p Es el más veloz, también resulta el más costoso de todos los medios de transporte; principalmente por el ahorro de tiempo en la operación. Se hace indispensable en envíos urgentes principalmente para mercancías perecederas o de alto valor.
+          h4 Medios:
+          p Avión, helicoptero.
+        .col-md-6
+          figure
+            img(src='@/assets/curso/t1/f5.svg' alt='Medios de transporte')
+      .row.p-4
+        .col-md-6.mb-4.mb-md-0
+          h3 Modo férreo o ferroviario
+          p Entre las ventajas tenemos la capacidad para considerables volúmenes, sus costoso son los más bajos de todos y la gran desventaja para el comercio exterior es la infraestructura limitada en algunos países.
+          h4 Medios:
+          p Tren-ferrocarril
+        .col-md-6
+          figure
+            img(src='@/assets/curso/t1/f6.svg' alt='Medios de transporte')
     .row.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos='fade-right')
         img(src='@/assets/curso/t1/f7.png' alt='Medios de transporte')
       .col-lg-8
         p Entre la sociedad y los individuos, el transporte desempeña un papel importante en el comportamiento de las relaciones socioeconómicas y físicas, así como en el traslado de mercancías, de información o de personas; y además requiere de investigación morfométrica y operativa de las infraestructuras que están presentes, esto, con el fin de relacionar el movimiento que pueda tener la mercancía, y las restricciones, o de los atributos que le corresponden al producto desde su origen, extensión, y naturaleza. Estos conceptos, aunque puedan parecer básicos, expresan de manera clara cómo incide el medio sobre la transportación; por ejemplo, el espacio geográfico, el movimiento-desplazamiento, etc. 
@@ -75,13 +75,13 @@
     figure.mb-5
       img(src='@/assets/curso/t1/f8.svg' alt='figura relacionada')
     .row.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos='fade-right')
         img(src='@/assets/curso/t1/f9.jpg' alt='Personas embalando mercancía')
       .col-lg-8
         p El embalaje, corresponde con la actividad de agrupar productos para su transporte, manipulación y almacenaje. La unidad de carga es elaborada para que facilite la manipulación en la cadena de suministro, con equipos como grúas y montacargas.
         p El embalaje se hace con el fin disminuir la mano de obra, el manipuleo de cajas y cuidado de la mercancía que se va comercializar evitando posibles daños y en últimas pérdidas para la empresa. De igual forma, la unitarización permite la carga y descarga del producto con el uso de equipos apropiados, reduciendo tiempos en los procesos logísticos logrando ser más eficaces las operaciones en los centros de distribución y disminuyendo la posibilidad de pérdidas por cualquier razón.
     p.mb-5 Dentro de las principales funciones del embalaje encontramos:
-    .col-lg-7.mx-auto.mb-5
+    .col-lg-7.mx-auto.mb-5(data-aos='fade-left')
       .titulo-sexto.color-acento-contenido
         span Funciones del embalaje
       figure
@@ -104,7 +104,7 @@
         .cajon.color-primario.p-4.mb-4
           p.mb-0 Además, no debemos olvidar que cada vez se hace más importante y necesario la preservación del medio ambiente y del planeta y se debe implementar esto como elemento determinante en el diseño de los empaques y embalajes. El uso creciente de envases y embalajes, respondiendo a las demandas de gusto de la población, a los ciclos de distribución cada vez más largos, así́ como por las demandas de calidad y protección del producto, han hecho que los residuos derivados de los mismos tras su uso, aumenten considerablemente en los últimos años. Por todo esto, es necesaria la integración del medio ambiente como factor clave en el diseño de los envases y embalajes.		 	 						
         p Hay otro aspecto presente en la protección física del producto y corresponde con la simbología en el transporte de carga. Las unidades de carga para las mercancías deben contar con efectividad y seguridad para su transporte, buscando que las operaciones a este respecto sean identificadas y las áreas que intervienen se entiendan entre sí, mediante símbolos gráficos. En la carga internacional las unidades se basan en la norma ISO 780 y se presenta de la siguiente tabla:
-      .col-lg-4
+      .col-lg-4(data-aos='fade-left')
         img(src='@/assets/curso/t1/f12.svg' alt='Personas embalando mercancía')
     .fcac25.traslapeTB
       .col-lg-9.mx-auto.mb-5(style='margin-top: -68rem;')
@@ -121,104 +121,104 @@
               td 
                 h5.mb-0 Significado
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f13.svg' alt='icono relacionado').mx-auto._81px
               td  Frágil
               td El contenido del embalaje es frágil y se debe manejar con precaución.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f14.svg' alt='icono relacionado').mx-auto._81px
               td No usar garfios
               td No se pueden usar garfios en el manejo de la carga.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f15.svg' alt='icono relacionado').mx-auto._81px
               td Mantener vertical
               td La unidad de carga se debe mantener en posición vertical.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f16.svg' alt='icono relacionado').mx-auto._81px
               td Proteger de la luz solar
               td La carga no debe exponerse a la luz solar u otras fuentes de calor.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f17.svg' alt='icono relacionado').mx-auto._81px
               td Mantener a resguardo de la lluvia
               td La carga debe mantenerse en un ambiente seco.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f18.svg' alt='icono relacionado').mx-auto._81px
               td Centro de gravedad
               td Indica el centro de gravedad de la unidad de carga.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f19.svg' alt='icono relacionado').mx-auto._81px
               td No rodar ni inclinar
               td La carga no se debe rodar ni inclinar o balancear.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f20.svg' alt='icono relacionado').mx-auto._81px
               td No manipular con las horquetas/horquillas en esta cara
               td Caras de la unidad de carga donde no se deben colocar las horquetas/horquillas de las carretilla manuales.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f21.svg' alt='icono relacionado').mx-auto._81px
               td No usar carretilla elevadora
               td  La carga no se debe manipular con carretilla elevadora.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f22.svg' alt='icono relacionado').mx-auto._81px
               td Colocar mordazas aquí
               td Colocar las abrazaderas en los lados que se indica para manipular la carga.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f23.svg' alt='icono relacionado').mx-auto._81px
               td No colocar mordazas aquí
               td No colocar las abrazaderas en los lados que se indica al manipular el embalaje.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f24.svg' alt='icono relacionado').mx-auto._81px
               td Apilamiento limitado
               td Indica el peso máximo posible sobre la unidad de carga.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f25.svg' alt='icono relacionado').mx-auto._81px
               td Apilamiento limitado por número 
               td Número máximo de embalajes iguales que se pueden apilar (n = número máx.).
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f26.svg' alt='icono relacionado').mx-auto._81px
               td No apilar
               td No se debe apilar ninguna otra carga encima.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f27.svg' alt='icono relacionado').mx-auto._81px
               td
                 p Eslingas aquí
                 img(src='@/assets/curso/t1/f27a.svg' alt='icono relacionado').mx-auto._81px
               td Indica dónde se deben emplazar las eslingas para elevar la carga.
             tr.text-center
-              td
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/t1/f28.svg' alt='icono relacionado').mx-auto._81px
               td Límites de temperatura
               td Límites de temperatura entre los que se debe conservar y manipular la carga.
       p.mb-5 En cuanto a los tipos de embalaje, hay una descripción de estos de acuerdo con el sector del “packaging” que explicaremos más adelante, en donde encontramos tres categorías de envases: primarias, secundarias y terciarias. Para hacer la distinción entre envase, empaque y embalaje podemos primero definir estos 3 niveles:
     .row.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos='flip-right')
         .tarjeta-avatar
           img(src='@/assets/curso/t1/f29.svg' alt='AvatarTop')
           .bordeSuperior.cac.fblanco.bg-tarjetas2
             .p-4.text-center
               h3 El embalaje primario
               p (comúnmente llamado envase primario) es el que está en contacto directo con el producto.
-      .col-lg-4
+      .col-lg-4(data-aos='flip-right')
         .tarjeta-avatar
           img(src='@/assets/curso/t1/f30.svg' alt='AvatarTop')
           .bordeSuperior.cac.fblanco.bg-tarjetas2
             .p-4.text-center
               h3 El embalaje secundario
               p (también llamado empaque secundario) es el que protege al embalaje primario y se desecha en el momento que es usado el producto.
-      .col-lg-4
+      .col-lg-4(data-aos='flip-right')
         .tarjeta-avatar
           img(src='@/assets/curso/t1/f31.svg' alt='AvatarTop')
           .bordeSuperior.cac.fblanco.bg-tarjetas2
@@ -226,21 +226,21 @@
               h3 El embalaje terciario
               p (también llamado envase terciario o de transporte) es el que protege al producto al momento de transportarlo, generalmente utilizado para exportación o distribución, contiene muchos embalajes primarios y secundarios.
     p.mb-5 Sin embargo, en la literatura se encuentran descripciones de los tipos de embalaje, teniendo en cuenta otra característica; las cuales puede repasar en la siguiente presentación:
-    .tarjeta.color-secundario.p-4.p-md-5.mb-5
+    .tarjeta.p-4.p-md-5.mb-5.purpuraBG(data-aos='fade-right')
       .row.justify-content-around.align-items-center
         .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
           img(src="@/assets/curso/infografia.svg")
         .col-md.col-lg-6
-          h3 Tipos de embalaje
-          p.mb-4 Existen diferentes tipos de embalaje, los cuales se diferencian de acuerdo con el producto que protegen. Existe el llamado embalaje primario, que es el que se encuentra en contacto directo con el producto de su interior, y en algunos casos permite su consumo de forma directa. El embalaje secundario es una envoltura externa que agrupa a los paquetes primarios contribuyendo a su visualización y protección; y el embalaje terciario contiene grandes cantidades de productos y permite su almacenamiento, con seguridad, hasta el momento de la venta.
-          a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank" type="application/pdf")
+          h3.texto-blanco Tipos de embalaje
+          p.mb-4.texto-blanco Existen diferentes tipos de embalaje, los cuales se diferencian de acuerdo con el producto que protegen. Existe el llamado embalaje primario, que es el que se encuentra en contacto directo con el producto de su interior, y en algunos casos permite su consumo de forma directa. El embalaje secundario es una envoltura externa que agrupa a los paquetes primarios contribuyendo a su visualización y protección; y el embalaje terciario contiene grandes cantidades de productos y permite su almacenamiento, con seguridad, hasta el momento de la venta.
+          a.boton.color-acento-botones(:href="obtenerLink('downloads/Tipo_embalaje.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .row.mb-5.align-items-center
       .col-lg-6
         .cajon.color-acento-contenido.p-4
           p.mb-0 Para llevar a cabo el envasado y embalaje de un producto, con el fin de formar una unidad de carga, sobre una estiba, deben cumplirse algunas condiciones en su agrupamiento, de acuerdo con una cantidad específica de objetos que de forma individual son poco manejable, pesados y/o voluminosos; aunque también pueden tenerse objetos que son de fácil desplazamiento, pero numerosos; sin embargo, en su manipulación y transporte requerirían de tiempo y trabajo. Al ser agrupados, conforman una unidad de trabajo para ser transportada y almacenada con el mínimo esfuerzo y en una sola operación y en un tiempo muy corto.
-      .col-lg-6
+      .col-lg-6(data-aos='fade-left')
         .titulo-sexto.color-acento-contenido
           span Sistema de envasado y embalaje de un producto para formar una unidad de carga sobre una estiba
         figure
@@ -283,7 +283,7 @@
           p.mb-5 
     .col-lg-10.mx-auto.mb-5
       .row
-        .col-lg-6
+        .col-lg-6(data-aos='flip-lefet')
           .tarjeta-avatar
             img(src='@/assets/curso/t1/f37.svg' alt='AvatarTop')
             img(src='@/assets/curso/flechitaAzul.svg' alt='Flecha azul').Flechita--tr
@@ -296,7 +296,7 @@
                 p Modular
                 p Japonesa
                 p Transporte maritimo y terrestre
-        .col-lg-6
+        .col-lg-6(data-aos='flip-lefet')
           .tarjeta-avatar
             img(src='@/assets/curso/t1/f37.svg' alt='AvatarTop')
             img(src='@/assets/curso/flechitaAzul.svg' alt='Flecha azul').Flechita--tl
@@ -314,7 +314,7 @@
         p En el mercado existe diversidad de estibas que se pueden ajustar a los requerimientos de almacenamiento, se consiguen lisas, antideslizantes, apilables, desarmables, con aletas, entre otras.	
         .cajon.color-acento-contenido.p-4
           p.mb-0 La medida más comercial en Colombia para la estiba es 120m x 100 y tienen a estandarizarse dentro de la cadena logística, debido a que estas especificaciones de estibas es la que más se ajusta a los componentes de transporte generando un mejor beneficio en el uso del espacio.
-      .col-lg-7
+      .col-lg-7(data-aos='fade-left')
         .titulo-sexto.color-acento-contenido
           span La medida más comercial en Colombia para la estiba es 120m x 100 y tienen a estandarizarse dentro de la cadena logística, debido a que estas especificaciones de estibas es la que más se ajusta a los componentes de transporte generando un mejor beneficio en el uso del espacio.
         figure
@@ -407,7 +407,7 @@
             .col-md-6
               figure
                 img(src='@/assets/curso/t1/f49.svg' alt='Dimensionales')
-      .col-lg-4
+      .col-lg-4(data-aos='fade-left')
         img(src='@/assets/curso/t1/f50.jpg' alt='')
     Separador
     #t_1_3.titulo-secundario
@@ -422,46 +422,58 @@
     .col-lg-9.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
         span Normas transporte terrestre
-      .row
-        .col-lg-4.tbbg1
-          .px-4.py-5.text-center.texto-blanco
-            p  Debe ser presentado ante las autoridades de aduana para su trámite respectivo, pudiendo hacerlo antes de la llegada del vehículo habilitado con las mercancías (Art. 22, Decisión 399 de 1997).
-        .col-lg-4.tbbg1
-          .px-4.py-5.text-center.texto-blanco
-            p  Toda mercancía que se transporte internacionalmente por carretera deberá estar amparada por una CPIC (Art. 22, Decisión 399 de 1997).
-        .col-lg-4.tbbg1
-          .px-4.py-5.text-center.texto-blanco
-            p La CPIC acredita la existencia de un contrato de transporte, tiene mérito ejecutivo y es negociable (Art. 75, Decisión 399 de 1997).
-        .col-lg-4.tbbg2
-          .px-4.py-5.text-center.texto-blanco
-            p El transportista que sólo cuenta con certificado de idoneidad no podrá emitir CPIC hasta tanto obtenga el permiso de prestación de servicios que le permita realizar el transporte (Art. 23, Decisión 399 de 1997).
-        .col-lg-4.tbbg2
-          .px-4.py-5.text-center.texto-blanco
-            p El transporte internacional de mercancías por carretera debe estar amparado por una CPIC, la cual será suscrita por el remitente y el transportista autorizado o por sus representantes o agentes (Art. 75, Decisión 399 de 1997).
-        .col-lg-4.tbbg2
-          .px-4.py-5.text-center.texto-blanco
-            p La CPIC prueba que el transportista autorizado ha recibido las mercancías bajo su responsabilidad y se ha obligado, contra el pago de un flete, a transportarlas dentro de un plazo preestablecido, desde un lugar determinado hasta otro designado para su entrega (Art. 76, Decisión 399 de 1997).
+      .row.justify-content-between
+        .col-lg-4.tbbg--1(data-aos='flip-left')
+          div(style="height:130px;")
+          .text-center.texto-blanco
+            p.px-4.py-5 <i class="fas fa-check cs me-3"></i> Debe ser presentado ante las autoridades de aduana para su trámite respectivo, pudiendo hacerlo antes de la llegada del vehículo habilitado con las mercancías (Art. 22, Decisión 399 de 1997).
+        .col-lg-4.tbbg--1(data-aos='flip-left')
+          div(style="height:130px;")
+          .text-center.texto-blanco
+            p.px-4.py-5 <i class="fas fa-check cs me-3"></i> Toda mercancía que se transporte internacionalmente por carretera deberá estar amparada por una CPIC (Art. 22, Decisión 399 de 1997).
+        .col-lg-4.tbbg--1(data-aos='flip-left')
+          div(style="height:130px;")
+          .text-center.texto-blanco
+            p.px-4.py-5 <i class="fas fa-check cs me-3"></i> La CPIC acredita la existencia de un contrato de transporte, tiene mérito ejecutivo y es negociable (Art. 75, Decisión 399 de 1997).
+      .row.justify-content-between
+        .col-lg-4.tbbg--2(data-aos='flip-left')
+          div(style="height:130px;")
+          .text-center.texto-blanco
+            p.px-4.py-5 <i class="fas fa-check cs me-3"></i> El transportista que sólo cuenta con certificado de idoneidad no podrá emitir CPIC hasta tanto obtenga el permiso de prestación de servicios que le permita realizar el transporte (Art. 23, Decisión 399 de 1997).
+        .col-lg-4.tbbg--2(data-aos='flip-left')
+          div(style="height:130px;")
+          .text-center.texto-blanco
+            p.px-4.py-5 <i class="fas fa-check cs me-3"></i> El transporte internacional de mercancías por carretera debe estar amparado por una CPIC, la cual será suscrita por el remitente y el transportista autorizado o por sus representantes o agentes (Art. 75, Decisión 399 de 1997).
+        .col-lg-4.tbbg--2(data-aos='flip-left')
+          div(style="height:130px;")
+          .text-center.texto-blanco
+            p.px-4.py-5 <i class="fas fa-check cs me-3"></i> La CPIC prueba que el transportista autorizado ha recibido las mercancías bajo su responsabilidad y se ha obligado, contra el pago de un flete, a transportarlas dentro de un plazo preestablecido, desde un lugar determinado hasta otro designado para su entrega (Art. 76, Decisión 399 de 1997).
     p.mb-5 El Permiso de Prestación de Servicios – PPS es el documento a tramitar para poder incursionar en el mercado internacional y se rige por la siguiente normatividad:
     .col-lg-9.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
         span Normatividad del Permiso de prestación de servicios PPS 
-      .row
-        .col-lg-4.tpbg1
-          .px-4.py-5.text-center.texto-blanco
-            p Para solicitar el PPS el transportista deberá estar constituido como empresa en alguno de los países miembros (Art. 20, Decisión 399 de 1997).
-            p El organismo nacional de cada país miembro es el competente para otorgarlo (Art. 33, Decisión 399 de 1997).
-        .col-lg-4.tpbg2
-          .px-4.py-5.text-center.texto-blanco
-            p El PPS será otorgado por el organismo nacional competente de cada uno de los otros países miembros del ámbito de operación del transportista, por los cuales pretende operar (Art. 35, Decisión 399 de 1997).
-        .col-lg-4.tpbg3
-          .px-4.py-5.text-center.texto-blanco
-            p El PPS será otorgado por Resolución administrativa del organismo nacional competente, la cual será expedida de conformidad con los procedimientos y demás disposiciones previstas en la legislación nacional del país miembro respectivo (Art. 34, Decisión 399 de 1997).
-        .col-lg-4.tpbg4.ms-auto
-          .px-4.py-5.text-center.texto-blanco
-            p El certificado de idoneidad será aceptado por los países miembros en los cuales se solicite el permiso de prestación de servicios, como prueba de que el transportista es idóneo para realizar transporte internacional (Art. 37, Decisión 399 de 1997).
-        .col-lg-4.tpbg5.me-auto
-          .px-4.py-5.text-center.texto-blanco
-            p Los países miembros, en sus respectivos territorios, conceden al transportista autorizado, a quien le hubieren otorgado permiso de prestación de servicios, el derecho a ofertar y prestar el servicio de transporte internacional, así como a establecer oficinas o sucursales (Art. 13, Decisión 399 de 1997).
+      .row.justify-content-between
+        .col-lg-4.tpbg--1(data-aos='flip-right')
+          div(style="height:130px;")
+          .text-center.texto-blanco
+            p.px-4.pt-5 <i class="fas fa-check cs me-3"></i> Para solicitar el PPS el transportista deberá estar constituido como empresa en alguno de los países miembros (Art. 20, Decisión 399 de 1997).
+            p.px-4.pb-5 <i class="fas fa-check cs me-3"></i> El organismo nacional de cada país miembro es el competente para otorgarlo (Art. 33, Decisión 399 de 1997).
+        .col-lg-4.tpbg--2(data-aos='flip-right')
+          div(style="height:130px;")
+          .text-center.texto-blanco
+            p.px-4.py-5 <i class="fas fa-check cs me-3"></i> El PPS será otorgado por el organismo nacional competente de cada uno de los otros países miembros del ámbito de operación del transportista, por los cuales pretende operar (Art. 35, Decisión 399 de 1997).
+        .col-lg-4.tpbg--3(data-aos='flip-right')
+          div(style="height:130px;")
+          .text-center.texto-blanco
+            p.px-4.py-5 <i class="fas fa-check cs me-3"></i> El PPS será otorgado por Resolución administrativa del organismo nacional competente, la cual será expedida de conformidad con los procedimientos y demás disposiciones previstas en la legislación nacional del país miembro respectivo (Art. 34, Decisión 399 de 1997).
+        .col-lg-4.tpbg--4.ms-auto(data-aos='flip-right')
+          div(style="height:130px;")
+          .text-center.texto-blanco
+            p.px-4.py-5 <i class="fas fa-check cs me-3"></i> El certificado de idoneidad será aceptado por los países miembros en los cuales se solicite el permiso de prestación de servicios, como prueba de que el transportista es idóneo para realizar transporte internacional (Art. 37, Decisión 399 de 1997).
+        .col-lg-4.tpbg--5.me-auto(data-aos='flip-right')
+          div(style="height:130px;")
+          .text-center.texto-blanco
+            p.px-4.py-5 <i class="fas fa-check cs me-3"></i> Los países miembros, en sus respectivos territorios, conceden al transportista autorizado, a quien le hubieren otorgado permiso de prestación de servicios, el derecho a ofertar y prestar el servicio de transporte internacional, así como a establecer oficinas o sucursales (Art. 13, Decisión 399 de 1997).
     .contenedor.fcac25.mb-5        
       .row.align-items-center.mb-5
         .col-lg-7
@@ -552,7 +564,7 @@
             td.text-center 	17.500
     Separador
     #t_1_5.titulo-secundario
-      h2 1.5	Picking y Packing
+      h2 1.5	<em>Picking</em> y <em>Packing</em>
     .cajon-b.color-primario.p-4
       p Las actividades manuales de preparación de pedidos en el centro de distribución son principalmente trabajos de clasificación y ordenación por destinos de acuerdo con la solicitud del cliente. Las actividades consisten en: levantar, mover, recoger, poner, embalaje y otros trabajos típicos. El proceso de picking manual para comparar las actividades físicas y actividades cognitivas, se trata de un paso que es fácil; sin embargo, requiere de atención y concentración; habilidades cognitivas incluidas.
     p En el primer paso, los preparadores toman la lista de pedidos y la leen, al mismo tiempo que cuentan la cantidad de artículos.
