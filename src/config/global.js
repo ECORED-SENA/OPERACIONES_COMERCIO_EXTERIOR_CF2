@@ -123,13 +123,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Asonav. (2020). <em>Autoridad marítima, legislación aduanera, sector portuario, términos que hacen parte del Comercio Exterior vigente</em>.',
+        'Asonav. (2020). <em>Autoridad marítima, legislación aduanera, sector portuario, términos que hacen parte del Comercio Exterior vigente</em>. ',
       link: 'https://www.asonav.org/documentos/',
     },
 
     {
       referencia:
-        'Baca, E. (2009). <em>Legislación y normatividad internacional para envases y embalaje</em>.',
+        'Baca, E. (2009). <em>Legislación y normatividad internacional para envases y embalaje</em>. ',
       link:
         'https://idoc.pub/documents/legislacion-y-normatividad-internacional-para-envases-y-embalajes-logistica-internaciona-pnxkzoxozg4v ',
     },
@@ -141,18 +141,19 @@ export default {
 
     {
       referencia:
-        'ITENE. (2007). <em>Guía práctica para el diseño de empaques y embalajes</em>.',
+        'ITENE. (2007). <em>Guía práctica para el diseño de empaques y embalajes</em>. ',
       link:
         'https://www.itene.com/rs/810/d112d6ad-54ec-438b-9358-4483f9e98868/f8b/filename/guia-diseno-envases-embalajes.pdf ',
     },
 
     {
-      referencia: 'Ministerio de Transporte. <em>Decreto 1079 de 2015</em>.',
+      referencia: 'Ministerio de Transporte. <em>Decreto 1079 de 2015</em>. ',
       link: 'https://www.mintransporte.gov.co',
     },
 
     {
-      referencia: 'Ministerio de Transporte. <em>Resolución 2498 de 2018</em>.',
+      referencia:
+        'Ministerio de Transporte. <em>Resolución 2498 de 2018</em>. ',
       link:
         'https://www.mintransporte.gov.co/publicaciones/9854/ministerio-de-transporte-pone-a-disposicion-para-comentarios-de-la-ciudadania-la-modificacion-de-la-resolucion-2498-que-busca-beneficiar-a-los-transportadores-de-carga-liviana/',
     },
@@ -242,25 +243,25 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nelly Parra Guarín´',
-        cargo: 'Experta Temática´',
-        centro: 'Centro de Gestión Industrial - Regional Distrito Capital´',
+        nombre: 'Nelly Parra Guarín',
+        cargo: 'Experta temática',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
-        nombre: 'María Inés Machado López´',
-        cargo: 'Diseñadora Instruccional´',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital´',
+        nombre: 'María Inés Machado López',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
-        nombre: 'Andrés Felipe Velandia Espitia´',
-        cargo: 'Revisor Metodológico y Pedagógico´',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital´',
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor metodológico y pedagógico',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
-        nombre: 'Sandra Patricia Hoyos Sepúlveda ´',
-        cargo: 'Revisión y corrección de estilo´',
+        nombre: 'Sandra Patricia Hoyos Sepúlveda ',
+        cargo: 'Revisión y corrección de estilo',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital´',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -288,23 +289,47 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Mauricio Santaella',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
         cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
-      /*{
-        nombre: 'Nombre',
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
         cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Caceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ricardo Vásquez Arroyave',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },*/
+      },
     ],
     gestoresRepositorio: [
       {

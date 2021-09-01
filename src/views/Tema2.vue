@@ -8,12 +8,12 @@
       h1 Modos y medios de transporte, conceptos de operación 
     .row.mb-5
       .col-lg-4(data-aos='fade-right')
-        img(src='@/assets/curso/t2/f1.png' alt='imagen relacionada')
+        img(src='@/assets/curso/t2/f1.png' alt='imagen relacionada').mb-4
       .col-lg-8
         p A medida que los sistemas de transporte y logística sigan integrándose, su impacto en el entorno físico (aire, agua y recursos terrestres) será más complejo. La globalización económica, la agilidad en la fabricación, la rapidez de la entrega y la administración en la cadena logística, están creando una mayor demanda de servicios de transporte intermodal y de infraestructuras de transporte multimodal. Para hacer frente a los impactos ambientales, el sector del transporte, sus clientes y partes interesadas deberán pasar de estrategias basadas en el cumplimiento de la normativa a otras que hagan hincapié en la gestión ambiental proactiva. 
         .cajon.color-primario.p-4.mb-4
           p.mb-0 Los modos y medios de transporte manejan una serie de variables significativas al momento de fijar costos; por lo anterior, se hace necesario contar con una empresa operadora que atienda los requisitos de transporte según el producto, red de distribución acertada, además del cumpliendo normatividad vigente.
-    #t_2_1.titulo-secundario
+    #t_2_1.titulo-segundo
       h2 2.1 Características de modos y medios de transporte
     .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
@@ -43,21 +43,21 @@
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-0 Los diferentes tipos de carga se regularizan mediante el organismo denominado LegisComex, que es el sistema de inteligencia comercial para la gestión y análisis del comercio exterior y que permite tomar decisiones en los negocios internacionales. Usted podrá consultar en la biblioteca SENA, los tipos de carga, de acuerdo con este sistema de regulación.
       .col-lg-7
-        .tarjeta.color-secundario.p-3.mb-5
+        .tarjeta.purpuraBG.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
               img(src="@/assets/curso/t1/f39.svg")
             .col
               .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
+                .col.mb-3.mb-sm-0.texto-blanco
                   h4 Tipos de carga según Legiscomex
                   p.mb-0.text-small Le invitamos a consultar los tipos de carga, que podrá encontrar en la biblioteca SENA, visitándola mediante el enlace:
                 .col-sm-auto
-                  a.boton.color-acento-contenido(:href="obtenerLink('https://login.bdigital.sena.edu.co/login?url=https://www.legiscomex.com/Documentos/TIPOSDECARGA')" target="_blank")
+                  a.boton.color-acento-botones(href='https://login.bdigital.sena.edu.co/login?url=https://www.legiscomex.com/Documentos/TIPOSDECARGA' target="_blank")
                     span Enlace web
                     i.fas.fa-link
     Separador
-    #t_2_2.titulo-secundario
+    #t_2_2.titulo-segundo
       h2 2.2 Plan de ruta
     .row.align-items-center.mb-5
       .col-lg-7
@@ -72,40 +72,12 @@
         span Plan de ruta
       img(src='@/assets/curso/t2/f5.svg' alt='imagen relacionada')
     Separador
-    #t_2_3.titulo-secundario
+    #t_2_3.titulo-segundo
       h2 2.3 Documentación de transporte internacional
     p.mb-5 Los encargados de coordinar y organizar los embarques, consolidar carga según acuerdos legales en el territorio son los agentes de carga. 
-    .col-lg-11.mx-auto.mb-5
-      .row.align-items-end
-        .col-lg-6(data-aos='fade-right')
-          .titulo-sexto.color-acento-contenido
-            span Agentes de carga
-          img(src='@/assets/curso/t2/f6.png' alt='imagen relacionada')
-        .col-lg-6
-          .row.align-items-center
-            .col-lg-6
-              a(href='#/curso/tema2/#1')
-                .himg1.p-4
-                  h4.mb-0(style='margin-top:80px;position:relative') Agente de carga marítimo
-            .col-lg-6
-              a(href='#/curso/tema2/#2')
-                .himg1.p-4
-                  h4.mb-0(style='margin-top:80px;position:relative') Agente de carga aérea
-            .col-lg-6
-              a(href='#/curso/tema2/#3')
-                .himg1.p-4
-                  h4.mb-0(style='margin-top:80px;position:relative') Agente de carga terrestre
-            .col-lg-6
-              a(href='#/curso/tema2/#4')
-                .himg1.p-4
-                  h4.mb-0(style='margin-top:80px;position:relative') Agente de carga ferroviarios
+    figure
+      img(src='@/assets/curso/t2/f6.jpg' alt='imagen relacionada').mb-5
     p.mb-5 Existen diferentes tipos de agentes de carga, de acuerdo con los modos de transporte de la mercancía:
-    .dottedHr
-    .row.justify-content-between.mb-5#1
-      .col-auto
-      .col-lg-1
-        a(:href="obtenerLink('#/curso/tema2/#t_2_3')")
-          img(src='@/assets/curso/up.svg' alt='Imagen relacionada' style='max-width:38px').mx-auto
     .row.mb-5
       .col-lg-5(data-aos='fade-right')
         img(src='@/assets/curso/t2/f7.png' alt='imagen relacionada').mb-4
@@ -113,38 +85,20 @@
         h3 Agente de carga marítimo
         p Es el encargado de transportar mercancía a través del mar y son los entes autorizados de manejo de las legislaciones nacionales para su intermediación ante las autoridades portuarias y marítimas en el manejo de la carga por este modo.
     img(src='@/assets/curso/t2/f8alt.jpg' alt='imagen relacionada').mb-4
-    .dottedHr
-    .row.justify-content-between.mb-5#2 
-      .col-auto
-      .col-lg-1
-        a(:href="obtenerLink('#/curso/tema2/#t_2_3')")
-          img(src='@/assets/curso/up.svg' alt='Imagen relacionada' style='max-width:38px').mx-auto
     .row.mb-5
       .col-lg-5(data-aos='fade-right')
         img(src='@/assets/curso/t2/f9.jpg' alt='imagen relacionada').mb-4
       .col-lg-7
         h3 Agente de carga aérea
-        p Encargados de brindar apoyo y asesoría en el transporte aéreo, deben ser certificados Agencia Internacional de Agentes de Carga Aérea (IATA) Ofrecen asesoría en rutas, documentación, capacidad de carga dentro del avión, entrega de producto y acompañamiento hasta destino final.
+        p Encargados de brindar apoyo y asesoría en el transporte aéreo, deben ser certificados por la Agencia Internacional de Agentes de Carga Aérea (IATA). Ofrecen asesoría en rutas, documentación, capacidad de carga dentro del avión, entrega de producto y acompañamiento hasta el destino final.
         .cajon.color-acento-contenido.p-4
           p.mb-0 Los agentes de carga marítima y aéreo, pueden cumplir la función de consolidar la carga de un mismo destino, para despachar las mercancías en bloque con una sola guía aérea o un solo conocimiento de embarque y con un solo transportador. Esta labor resulta de mucha utilidad, pues el agente logra una tarifa especial, ya que maneja pesos y volúmenes de mayor tamaño.
-    .dottedHr
-    .row.justify-content-between.mb-5#3 
-      .col-auto
-      .col-lg-1
-        a(:href="obtenerLink('#/curso/tema2/#t_2_3')")
-          img(src='@/assets/curso/up.svg' alt='Imagen relacionada' style='max-width:38px').mx-auto
     .row.mb-5
       .col-lg-5(data-aos='fade-right')
         img(src='@/assets/curso/t2/f10.jpg' alt='imagen relacionada').mb-4
       .col-lg-7
         h3 Agente de carga terrestre
         p Este agente debe asegurar que el envío de la carga se ajuste a todas las normas a nivel nacional; para el caso de Colombia, es el Ministerio de Transporte, además le presta ayuda al cliente para el traslado de la mercancía por vía terrestre y las transacciones fronterizas.
-    .dottedHr
-    .row.justify-content-between.mb-5#4
-      .col-auto
-      .col-lg-1
-        a(:href="obtenerLink('#/curso/tema2/#t_2_3')")
-          img(src='@/assets/curso/up.svg' alt='Imagen relacionada' style='max-width:38px').mx-auto
     .row.mb-5
       .col-lg-5(data-aos='fade-right')
         img(src='@/assets/curso/t2/f11.jpg' alt='imagen relacionada').mb-4
@@ -153,7 +107,7 @@
         p Encargados del transporte de carga por tren, efectúa la elaboración del conocimiento de embarque, manejo de la carga, documentación, uso de espacio, utilización de carga y suministro de tarifas, entre otros.
         .cajon.color-acento-contenido.p-4
           p.mb-0 En la actualidad existen empresas que tienen su departamento de transporte logístico y hacen las actividades propias del agente aduanero; aunque normalmente son las grandes empresas quienes implementan estos departamentos. 
-    p Para aquellas pequeñas y medianas empresas, que deben que contratar dichos servicios, es importante que tengan en cuenta: 
+    p Para aquellas pequeñas y medianas empresas, que deben contratar dichos servicios, es importante que tengan en cuenta: 
     ul.lista-ul
       li 
         i.fas.fa-check.cs.ms-4
@@ -181,7 +135,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p Le invitamos a consultar la página de Asonav, en donde podrá tener información detallada respecto a autoridad marítima, legislación aduanera y sector portuario; términos que hacen parte del comercio exterior vigente:
+            p Le invitamos a consultar la página de Asonav, en donde podrá tener información detallada respecto a autoridad marítima, legislación aduanera y sector portuario; términos que hacen parte del comercio exterior vigente.
 
 
 
