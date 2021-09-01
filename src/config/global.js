@@ -249,7 +249,7 @@ export default {
       },
       {
         nombre: 'María Inés Machado López',
-        cargo: 'Diseñadora Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {

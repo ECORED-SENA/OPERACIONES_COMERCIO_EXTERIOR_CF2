@@ -52,7 +52,7 @@
       .row.p-4
         .col-md-6.mb-4.mb-md-0
           h3 Modo férreo o ferroviario
-          p Entre las ventajas tenemos la capacidad para considerables volúmenes, sus costoso son los más bajos de todos y la gran desventaja para el comercio exterior es la infraestructura limitada en algunos países.
+          p Entre las ventajas tenemos la capacidad para considerables volúmenes, sus son los más bajos de todos y la gran desventaja para el comercio exterior es la infraestructura limitada en algunos países.
           h4 Medios:
           p Tren-ferrocarril.
         .col-md-6
@@ -79,7 +79,7 @@
         img(src='@/assets/curso/t1/f9.jpg' alt='Personas embalando mercancía')
       .col-lg-8
         .cajon-b.color-primario.p-4
-          p El embalaje, corresponde con la actividad de agrupar productos para su transporte, manipulación y almacenaje. La unidad de carga es elaborada para que facilite la manipulación en la cadena de suministro, con equipos como grúas y montacargas.
+          p El embalaje corresponde con la actividad de agrupar productos para su transporte, manipulación y almacenaje. La unidad de carga es elaborada para que facilite la manipulación en la cadena de suministro, con equipos como grúas y montacargas.
         p El embalaje se hace con el fin de disminuir la mano de obra, el manipuleo de cajas y cuidado de la mercancía que se va a comercializar, evitando posibles daños y en últimas pérdidas para la empresa. De igual forma, la unitarización permite la carga y descarga del producto con el uso de equipos apropiados, reduciendo tiempos en los procesos logísticos, logrando ser más eficaces las operaciones en los centros de distribución y disminuyendo la posibilidad de pérdidas por cualquier razón.
     p.mb-5 Dentro de las principales funciones del embalaje encontramos:
     .col-lg-7.mx-auto.mb-5(data-aos='fade-left')
@@ -104,7 +104,7 @@
         p En el proceso de embalaje, encontramos varios factores por los que se puede ver afectado un producto durante la etapa de distribución y hasta que llega al destino final; por esta razón, el embalaje debe construirse para resistir sin sufrir mayores daños ocasionados por estrechamiento, humedad por el clima, frío, calor, vibraciones, impactos por caídas, inestabilidad, etc. 
         .cajon.color-primario.p-4.mb-4
           p.mb-0 Además, no debemos olvidar que cada vez se hace más importante y necesario la preservación del medio ambiente y del planeta y se debe implementar esto como elemento determinante en el diseño de los empaques y embalajes. El uso creciente de envases y embalajes, respondiendo a las demandas de gusto de la población, a los ciclos de distribución cada vez más largos, así como por las demandas de calidad y protección del producto, han hecho que los residuos derivados de los mismos tras su uso aumenten considerablemente en los últimos años. Por todo esto, es necesaria la integración del medio ambiente como factor clave en el diseño de los envases y embalajes.		 	 						
-        p Hay otro aspecto presente en la protección física del producto y corresponde con la simbología en el transporte de carga. Las unidades de carga para las mercancías deben contar con efectividad y seguridad para su transporte, buscando que las operaciones a este respecto sean identificadas y las áreas que intervienen se entiendan entre sí, mediante símbolos gráficos. En la carga internacional las unidades se basan en la norma ISO 780 y se presenta de la siguiente tabla:
+        p Hay otro aspecto presente en la protección física del producto y corresponde con la simbología en el transporte de carga. Las unidades de carga para las mercancías deben contar con efectividad y seguridad para su transporte, buscando que las operaciones a este respecto sean identificadas y las áreas que intervienen se entiendan entre sí, mediante símbolos gráficos. En la carga internacional las unidades se basan en la norma ISO 780 y se presenta en la siguiente tabla:
       .col-lg-4(data-aos='fade-left')
         img(src='@/assets/curso/t1/f12.svg' alt='Personas embalando mercancía')
     .fcac25.traslapeTB
@@ -281,7 +281,7 @@
             button.carousel-control-next(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='next')
               span.carousel-control-next-icon(aria-hidden='true')
               span.visually-hidden Next
-          p.mb-5 De acuerdo con la normatividad ISO 3394, los tamaños y referencias aceptados en territorio nacional son:
+    p.mb-5 De acuerdo con la normatividad ISO 3394, los tamaños y referencias aceptados en territorio nacional son:
     .col-lg-10.mx-auto.mb-5
       .row
         .col-lg-6.mb-4(data-aos='flip-left')
@@ -317,7 +317,7 @@
           p.mb-0 La medida más comercial en Colombia para la estiba es 120m x 100 y tienen a estandarizarse dentro de la cadena logística, debido a que estas especificaciones de estibas es la que más se ajusta a los componentes de transporte generando un mejor beneficio en el uso del espacio.
       .col-lg-7(data-aos='fade-left')
         .titulo-sexto.color-acento-contenido
-          span Especificaciones de la Estiba
+          span Especificaciones de la estiba
         figure
           img(src='@/assets/curso/t1/f38.svg' alt='Imagen relacionada').mb-4
       .col-lg-5
@@ -440,7 +440,7 @@
         .col-lg-4.mb-4.tbbg.tbbg--2.p-4(data-aos='flip-left')
           img(src='@/assets/curso/t1/tarjetas-icon1.svg' alt='icono relacionado').w71px.my-5.mx-auto
           .text-center.texto-blanco
-            p <i class="fas fa-check cs me-3"></i> El transportista que sólo cuenta con certificado de idoneidad no podrá emitir CPIC hasta tanto obtenga el permiso de prestación de servicios que le permita realizar el transporte (Art. 23, Decisión 399 de 1997).
+            p <i class="fas fa-check cs me-3"></i> El transportista que solo cuenta con certificado de idoneidad no podrá emitir CPIC hasta tanto obtenga el permiso de prestación de servicios que le permita realizar el transporte (Art. 23, Decisión 399 de 1997).
         .col-lg-4.mb-4.tbbg.tbbg--2.p-4(data-aos='flip-left')
           img(src='@/assets/curso/t1/tarjetas-icon1.svg' alt='icono relacionado').w71px.my-5.mx-auto
           .text-center.texto-blanco
