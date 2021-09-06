@@ -314,7 +314,7 @@
       .col-lg-5
         p En el mercado existe diversidad de estibas que se pueden ajustar a los requerimientos de almacenamiento, se consiguen lisas, antideslizantes, apilables, desarmables, con aletas, entre otras.	
         .cajon.color-acento-contenido.p-4.mb-4
-          p.mb-0 La medida más comercial en Colombia para la estiba es 120m x 100 y tienen a estandarizarse dentro de la cadena logística, debido a que estas especificaciones de estibas es la que más se ajusta a los componentes de transporte generando un mejor beneficio en el uso del espacio.
+          p.mb-0 La medida más comercial en Colombia para la estiba es 120 cm x 100 cm y tienden a estandarizarse dentro de la cadena logística, debido a que estas especificaciones de estibas es la que más se ajusta a los componentes de transporte generando un mejor beneficio en el uso del espacio.
       .col-lg-7(data-aos='fade-left')
         .titulo-sexto.color-acento-contenido
           span Especificaciones de la estiba
@@ -595,8 +595,8 @@
       .col-lg-6
         .cajon-b.color-primario.p-4
           p El proceso de embalaje, de acuerdo con el sector en el que se realiza adquiere mayor relevancia y desempeño; es así como, por ejemplo, en el sector de alimentos, cerámica, plásticos, electrodomésticos y mensajería, requiere cumplimiento estricto en el embalaje de las mercancías.
-        p Las necesidades son diferentes en cada producto buscando que al momento de ser transportadas conserven todas sus propiedades o características del producto.
-        p Es necesario respondernos la siguiente pregunta ¿cómo se relacionan el <em>picking</em> y el <em>packing</em>? Aunque son dos procesos diferentes, ellos son complementarios, ya que el <em>picking</em> prepara el pedido antes de ser empacado y después, el <em>packing</em> se encarga del embalaje del producto.
+        p.px-4 Las necesidades son diferentes en cada producto buscando que al momento de ser transportadas conserven todas sus propiedades o características del producto.
+        p.px-4 Es necesario respondernos la siguiente pregunta ¿cómo se relacionan el <em>picking</em> y el <em>packing</em>? Aunque son dos procesos diferentes, ellos son complementarios, ya que el <em>picking</em> prepara el pedido antes de ser empacado y después, el <em>packing</em> se encarga del embalaje del producto.
         .cajon.color-primario.p-4
           p.mb-0 El <em>picking</em> y <em>packing</em> son tareas de vital importancia, ya que un error durante estos procesos puede ocasionar entregas incorrectas, daños en la mercancía o retrasos en la entrega, adicionalmente estas áreas son las que condicionan fuertemente el nivel de servicio al cliente.
 </template>
