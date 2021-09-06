@@ -52,7 +52,7 @@
       .row.p-4
         .col-md-6.mb-4.mb-md-0
           h3 Modo férreo o ferroviario
-          p Entre las ventajas tenemos la capacidad para considerables volúmenes, sus son los más bajos de todos y la gran desventaja para el comercio exterior es la infraestructura limitada en algunos países.
+          p Entre las ventajas tenemos la capacidad para considerables volúmenes, sus costos son los más bajos de todos y la gran desventaja para el comercio exterior es la infraestructura limitada en algunos países.
           h4 Medios:
           p Tren-ferrocarril.
         .col-md-6
@@ -543,25 +543,25 @@
             td Menor o igual a 5.000 kilogramos
             td.text-center 5.500
           tr
-            td Mayor a 5.000 kilogramos y menor o igual a 6.000 kilogramo
+            td Mayor a 5.000 kilogramos y menor o igual a 6.000 kilogramos
             td.text-center 	7.000
           tr
-            td Mayor a 6.000 kilogramos y menor o igual a 7.000 kilogramo
+            td Mayor a 6.000 kilogramos y menor o igual a 7.000 kilogramos
             td.text-center 	9.000
           tr
-            td Mayor a 7.000 kilogramos y menor o igual a 8.000 kilogramo
+            td Mayor a 7.000 kilogramos y menor o igual a 8.000 kilogramos
             td.text-center 	10.500
           tr
-            td Mayor a 8.000 kilogramos y menor o igual a 9.000 kilogramo
+            td Mayor a 8.000 kilogramos y menor o igual a 9.000 kilogramos
             td.text-center 	11.500
           tr
-            td Mayor a 9.000 kilogramos y menor o igual a 10.500 kilogramo
+            td Mayor a 9.000 kilogramos y menor o igual a 10.500 kilogramos
             td.text-center 	13.500
           tr
-            td Mayor a 10.500 kilogramos y menor o igual a 13.000 kilogramo
+            td Mayor a 10.500 kilogramos y menor o igual a 13.000 kilogramos
             td.text-center 	15.500
           tr
-            td Mayor a 13.000 kilogramos y menor o igual a 17.500 kilogramo
+            td Mayor a 13.000 kilogramos y menor o igual a 17.500 kilogramos
             td.text-center 	17.500
     Separador
     #t_1_5.titulo-segundo
