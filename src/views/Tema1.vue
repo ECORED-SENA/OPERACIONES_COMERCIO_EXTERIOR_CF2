@@ -71,7 +71,7 @@
       h2 1.1 Protección física 
     p.mb-5 El envase, empaque y embalaje son los elementos básicos para el transporte del producto y por ello requieren de un análisis integral antes de alistar una carga para su transporte, de estos factores depende principalmente el logro de la excelente entrega, sea local o de exportación, además de la imagen del servicio prestado para crecimiento en el mercado.
     .titulo-sexto.color-acento-contenido
-      span Características de la protección física
+      span #[strong Características de la protección física]
     figure.mb-5
       img(src='@/assets/curso/t1/f8.svg' alt='figura relacionada')
     .row.align-items-center.mb-5
@@ -84,15 +84,15 @@
     p.mb-5 Dentro de las principales funciones del embalaje encontramos:
     .col-lg-7.mx-auto.mb-5(data-aos='fade-left')
       .titulo-sexto.color-acento-contenido
-        span Funciones del embalaje
+        span #[strong Funciones del embalaje]
       figure
         img(src='@/assets/curso/t1/f10.svg' alt='Funciones del embalaje')
     p.mb-5 Dentro de la normativa para los envases de productos, existen algunos requerimientos en etiquetado y marcación de envases y embalajes debido a que facilitan el proceso de distribución e identificación sobre su contenido, los detalles y prevención que necesita la mercancía. También deben estar marcados con nombre e información del destino, descripción y cuidados requeridos de la mercancía o carga. Estos datos se registran de diferentes modos utilizando los sistemas de información.
     .titulo-sexto.color-acento-contenido
-      span Importancia y funciones de los empaques y embalajes 	
+      span #[strong Importancia y funciones de los empaques y embalajes]	
     figure.mb-4
       img(src='@/assets/curso/t1/f11.svg' alt='Importancia y funciones de los empaques y embalajes')
-      figcaption Nota. https://bit.ly/3k3YKLs
+      
     .col-lg-6.mb-5
       a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
         .anexo__icono
@@ -110,7 +110,7 @@
     .fcac25.traslapeTB
       .col-lg-9.mx-auto.mb-5._68pxMT
         .titulo-sexto.color-acento-contenido.mb-4
-          span Simbología de identificación de las unidades de carga y manipulación de envases y embalajes
+          span #[strong Simbología de identificación de las unidades de carga y manipulación de envases y embalajes]
         .tabla-b.color-acento-contenido.mb-5.fblanco
           table
             caption Nota. Tomado del Manual transporte de mercancías (norma ISO 780)
@@ -243,7 +243,7 @@
           p.mb-0 Para llevar a cabo el envasado y embalaje de un producto, con el fin de formar una unidad de carga, sobre una estiba, deben cumplirse algunas condiciones en su agrupamiento, de acuerdo con una cantidad específica de objetos que de forma individual son poco manejable, pesados y/o voluminosos; aunque también pueden tenerse objetos que son de fácil desplazamiento, pero numerosos; sin embargo, en su manipulación y transporte requerirían de tiempo y trabajo. Al ser agrupados, conforman una unidad de trabajo para ser transportada y almacenada con el mínimo esfuerzo y en una sola operación y en un tiempo muy corto.
       .col-lg-6(data-aos='fade-left')
         .titulo-sexto.color-acento-contenido
-          span Sistema de envasado y embalaje de un producto para formar una unidad de carga sobre una estiba
+          span #[strong Sistema de envasado y embalaje de un producto para formar una unidad de carga sobre una estiba]
         figure
           img(src='@/assets/curso/t1/f32.svg' alt='Sistema de envasado y embalaje').mb-5
     
@@ -317,7 +317,7 @@
           p.mb-0 La medida más comercial en Colombia para la estiba es 120 cm x 100 cm y tienden a estandarizarse dentro de la cadena logística, debido a que estas especificaciones de estibas es la que más se ajusta a los componentes de transporte generando un mejor beneficio en el uso del espacio.
       .col-lg-7(data-aos='fade-left')
         .titulo-sexto.color-acento-contenido
-          span Especificaciones de la estiba
+          span #[strong Especificaciones de la estiba]
         figure
           img(src='@/assets/curso/t1/f38.svg' alt='Imagen relacionada').mb-4
       .col-lg-5
@@ -415,14 +415,14 @@
       h2 1.3 Normativa en la prestación de servicios de carga
     .col-lg-10.mx-auto.mb-5(data-aos='flip-left')
       .titulo-sexto.color-acento-contenido
-        span Tipos de camiones de carga en el transporte terrestre
+        span #[strong Tipos de camiones de carga en el transporte terrestre]
       figure.px-5
         img(src='@/assets/curso/t1/f49A.jpg' alt='servicios de carga')
         //figcaption Nota. https://bit.ly/3iZnDZg
     p.mb-5 La regulación normativa que rige para el transporte terrestre y cada uno de sus medios se determina y autoriza en la Carta de Porte Internacional por Carretera (CPIC) en donde se establece que:
     .col-lg-9.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
-        span Normas de transporte terrestre
+        span #[strong Normas de transporte terrestre]
       .row.justify-content-between
         .col-lg-4.mb-4.tbbg.tbbg--1.p-4(data-aos='flip-left')
           img(src='@/assets/curso/t1/tarjetas-icon1.svg' alt='icono relacionado').w71px.my-5.mx-auto
@@ -452,7 +452,7 @@
     p.mb-5 El Permiso de Prestación de Servicios – PPS es el documento a tramitar para poder incursionar en el mercado internacional y se rige por la siguiente normatividad:
     .col-lg-9.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
-        span Normatividad del Permiso de Prestación de Servicios PPS 
+        span #[strong Normatividad del Permiso de Prestación de Servicios PPS] 
       .row.justify-content-between
         .col-lg-4.mb-4.tpbg.tpbg--1(data-aos='flip-right')
           img(src='@/assets/curso/t1/tarjetas-icon2.svg' alt='icono relacionado').w71px.my-5.mx-auto
@@ -490,7 +490,7 @@
       p.mb-5 También encontramos el transporte aéreo, que es la modalidad utilizada para operaciones de importación y exportación, con la ventaja más significativa en cuanto a la rapidez en los trayectos para enviar y recibir carga en cualquier lugar del mundo, este tipo de transporte se rige por la siguiente normatividad:
       .col-lg-10.mx-auto.mb-5
         .titulo-sexto.color-acento-contenido
-          span Normatividad aplicable a los convenios internacionales en el transporte de carga
+          span #[strong Normatividad aplicable a los convenios internacionales en el transporte de carga]
         img(src='@/assets/curso/t1/f52.svg' alt='Normatividad aplicable')
       .col-lg-7.mx-auto.mb-5
         .tarjeta.purpuraBG.p-3.mb-5
@@ -530,10 +530,10 @@
     p.mb-5 El peso de los vehículos de carga que se desplazan por el territorio colombiano, son inspeccionados por las autoridades encargadas para tal fin y los rangos de medición se encuentran establecidos en la Resolución 2498 de 2018, de acuerdo con las siguientes especificaciones:
     .col-lg-9.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
-        span Rango de medición para inspección del peso de los vehículos en Colombia 
+        span #[strong Rango de medición para inspección del peso de los vehículos en Colombia] 
       .tabla-b.color-acento-contenido.mb-5.fblanco
         table
-          caption Nota. https://bit.ly/3srZOfI
+          
           tr.text-center.fcac.texto-blanco
             td 
               h5.mb-0 Rango Peso Bruto Vehicular (PBV) registrado en el RUNT
@@ -582,7 +582,7 @@
     p.mb-5 Es necesario tener presente que el <em>picking</em>, involucra cuatro (4) etapas; estas son:
     .col-lg-10.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
-        span Etapas del <em>picking</em> 
+        span #[strong Etapas del #[i picking]]
       img(src='@/assets/curso/t1/f55.svg' alt='Imagen relacionada')
     p El segundo tiempo del recorrido denominado alistamiento o <em>picking</em>, es el más crítico. Después sigue en orden de complejidad el de verificación; sin embargo, si contamos con la tecnología adecuada, estos tiempos tienden a reducir de manera significativa, optimizando el proceso 
     .cajon.color-acento-contenido.p-4.mb-4
@@ -590,7 +590,7 @@
     .row
       .col-lg-6
         .titulo-sexto.color-acento-contenido
-          span Actividades de <em>packing</em>
+          span #[strong Actividades de #[i packing]]
         img(src='@/assets/curso/t1/f56.svg' alt='Imagen relacionada')
       .col-lg-6
         .cajon-b.color-primario.p-4

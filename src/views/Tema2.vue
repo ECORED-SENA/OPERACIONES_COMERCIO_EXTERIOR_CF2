@@ -28,7 +28,7 @@
       p.mb-0 Para seleccionar el modo de transporte adecuado, se debe tener en cuenta la capacidad de carga y los modos que se puedan utilizar, evaluando aspectos que describen la comparación y alternativas para estructurar los costos, entre ellos se encuentra la velocidad de circulación, disponibilidad, confiabilidad, capacidad y frecuencia. Algunos de estos elementos presentes para realizar el análisis de las diferentes alternativas que hay, son: 
     .col-lg-4.mx-auto.mb-5(data-aos='flip-left')
       .titulo-sexto.color-acento-contenido
-        span Elementos según modos y medios 
+        span #[strong Elementos según modos y medios]
       figure
         img(src='@/assets/curso/t2/f3.svg' alt='imagen relacionada')
         figcaption Nota. Tomado de Bowersox, Closs y Cooper (2007)
@@ -36,7 +36,7 @@
     p.mb-5 Existen diferentes tipos de carga, entre los principales encontramos:
     .col-lg-8.mx-auto.mb-5 
       .titulo-sexto.color-acento-contenido
-        span Tipos de carga
+        span #[strong Tipos de carga]
       img(src='@/assets/curso/t2/f3a.svg' alt='imagen relacionada')
     .row.align-items-center.mb-5
       .col-lg-5
@@ -69,7 +69,7 @@
         img(src='@/assets/curso/t2/f4.jpg' alt='imagen relacionada')
     .col-lg-11.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
-        span Plan de ruta
+        span #[strong Plan de ruta]
       img(src='@/assets/curso/t2/f5.svg' alt='imagen relacionada')
     Separador
     #t_2_3.titulo-segundo
