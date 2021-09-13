@@ -10,7 +10,7 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Actividad didáctica 
+          h2 Qué sabemos de transporte de mercancía
         p.mb-4 De acuerdo con los conceptos emitidos acerca a los medios y modos de transporte, relacione las letras en las casillas que corresponda a la definición citada y luego haga clic en el botón Enviar para validar su resultado.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
