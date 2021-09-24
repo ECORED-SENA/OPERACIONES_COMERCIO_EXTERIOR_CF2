@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="81" viewBox="0 0 81 81">
+  <g id="Grupo_146963" data-name="Grupo 146963" transform="translate(-377 -9718)">
+    <g id="Rectángulo_34504" data-name="Rectángulo 34504" transform="translate(377 9718)" fill="none" stroke="#000" stroke-width="1">
+      <rect width="81" height="81" stroke="none"/>
+      <rect x="0.5" y="0.5" width="80" height="80" fill="none"/>
+    </g>
+    <g id="Grupo_102729" data-name="Grupo 102729" transform="translate(-207.428 7918.712)">
+      <path id="Trazado_159173" data-name="Trazado 159173" d="M634.777,1822.223h-5.323l-21.293,29.708h-4.293" transform="translate(4.474 2.813)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <text id="C_max" data-name="C max" transform="translate(645.795 1822.288)" font-size="6" font-family="CenturyGothic, Century Gothic"><tspan x="-9.573" y="0">C max</tspan></text>
+      <text id="C_min" data-name="C min" transform="translate(601.427 1861.757)" font-size="5" font-family="CenturyGothic, Century Gothic"><tspan x="-7.095" y="0">C min</tspan></text>
+      <circle id="Elipse_5036" data-name="Elipse 5036" cx="6.079" cy="6.079" r="6.079" transform="translate(617.922 1851.444)"/>
+      <rect id="Rectángulo_34528" data-name="Rectángulo 34528" width="4.31" height="23.826" transform="translate(621.846 1834.524)"/>
+      <rect id="Rectángulo_34529" data-name="Rectángulo 34529" width="4.31" height="40.955" rx="1.462" transform="translate(621.846 1817.395)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

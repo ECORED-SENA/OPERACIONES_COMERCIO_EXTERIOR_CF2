@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="81" viewBox="0 0 81 81">
+  <g id="Grupo_146958" data-name="Grupo 146958" transform="translate(-377 -9233.824)">
+    <g id="Rectángulo_34495" data-name="Rectángulo 34495" transform="translate(377 9233.824)" fill="none" stroke="#000" stroke-width="1">
+      <rect width="81" height="81" stroke="none"/>
+      <rect x="0.5" y="0.5" width="80" height="80" fill="none"/>
+    </g>
+    <g id="Grupo_102724" data-name="Grupo 102724" transform="translate(-201.471 7794.87)">
+      <rect id="Rectángulo_34516" data-name="Rectángulo 34516" width="26.594" height="26.594" transform="translate(606.614 1465.833)"/>
+      <rect id="Rectángulo_34517" data-name="Rectángulo 34517" width="1.512" height="26.594" transform="translate(635.203 1465.615)"/>
+      <rect id="Rectángulo_34518" data-name="Rectángulo 34518" width="1.512" height="26.594" transform="translate(601.762 1465.615)"/>
+      <path id="Trazado_159170" data-name="Trazado 159170" d="M638.047,1473.8h-4.7v-3.025L627.125,1477l6.218,5.671v-3.487h4.7Z" transform="translate(14.296 3.407)"/>
+      <path id="Trazado_159171" data-name="Trazado 159171" d="M586.471,1473.8h4.7v-3.025l6.218,6.218-6.218,5.671v-3.487h-4.7Z" transform="translate(0 3.407)"/>
+      <g id="Rectángulo_34519" data-name="Rectángulo 34519" transform="matrix(-0.697, 0.717, -0.717, -0.697, 638.412, 1495.542)" stroke="#f6f6f6" stroke-miterlimit="10" stroke-width="0.25">
+        <rect width="2.272" height="49.41" rx="0.841" stroke="none"/>
+        <rect x="0.125" y="0.125" width="2.022" height="49.16" rx="0.716" fill="none"/>
+      </g>
+      <g id="Rectángulo_34520" data-name="Rectángulo 34520" transform="translate(636.898 1461.156) rotate(46.017)" stroke="#f6f6f6" stroke-miterlimit="10" stroke-width="0.25">
+        <rect width="2.272" height="49.41" rx="0.841" stroke="none"/>
+        <rect x="0.125" y="0.125" width="2.022" height="49.16" rx="0.716" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
