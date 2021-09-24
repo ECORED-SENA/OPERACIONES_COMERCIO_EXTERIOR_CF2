@@ -94,11 +94,11 @@
       img(src='@/assets/curso/t1/f11.svg' alt='Importancia y funciones de los empaques y embalajes')
       
     .col-lg-6.mb-5
-      a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+      a.anexo.mb-4(:href="obtenerLink('downloads/Importancia_funciones_empaques_embalajes.pdf')" target="_blank")
         .anexo__icono
           img(src="@/assets/template/icono-pdf.svg")
         .anexo__texto
-          p <b>Anexo.</b> Importancia_funciones_empaques_embalajes
+          p <b>Anexo.</b> Importancia y funciones de los empaques y embalajes
     .row.align-items-center.mb-5
       .col-lg-8
         p En el proceso de embalaje, encontramos varios factores por los que se puede ver afectado un producto durante la etapa de distribución y hasta que llega al destino final; por esta razón, el embalaje debe construirse para resistir sin sufrir mayores daños ocasionados por estrechamiento, humedad por el clima, frío, calor, vibraciones, impactos por caídas, inestabilidad, etc. 
@@ -357,7 +357,7 @@
               img(src='@/assets/curso/t1/f41.png' alt='Imagen relacionada').mb-4
           .col-md-6.mb-4.mb-md-0
             h4 Carga suelta
-            p compuesta por productos sueltos por unidades de tamaño, manipulados y transportados como unidades separadas. Ejemplos: llantas, madera y cilindros.
+            p Compuesta por productos sueltos por unidades de tamaño, manipulados y transportados como unidades separadas. Ejemplos: llantas, madera y cilindros.
       .py-4.py-md-5(titulo="Carga paletizada")
         .row
           .col-md-6
@@ -452,7 +452,7 @@
     p.mb-5 El Permiso de Prestación de Servicios – PPS es el documento a tramitar para poder incursionar en el mercado internacional y se rige por la siguiente normatividad:
     .col-lg-9.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
-        span #[strong Normatividad del Permiso de Prestación de Servicios PPS] 
+        span #[strong Normatividad del Permiso de Prestación de Servicios - PPS] 
       .row.justify-content-between
         .col-lg-4.mb-4.tpbg.tpbg--1(data-aos='flip-right')
           img(src='@/assets/curso/t1/tarjetas-icon2.svg' alt='icono relacionado').w71px.my-5.mx-auto
@@ -466,7 +466,7 @@
         .col-lg-4.mb-4.tpbg.tpbg--3(data-aos='flip-right')
           img(src='@/assets/curso/t1/tarjetas-icon2.svg' alt='icono relacionado').w71px.my-5.mx-auto
           .text-center.texto-blanco
-            p <i class="fas fa-check cs me-3"></i> El PPS será otorgado por Resolución administrativa del organismo nacional competente, la cual será expedida de conformidad con los procedimientos y demás disposiciones previstas en la legislación nacional del país miembro respectivo (Art. 34, Decisión 399 de 1997).
+            p <i class="fas fa-check cs me-3"></i> El PPS será otorgado por resolución administrativa del organismo nacional competente, la cual será expedida de conformidad con los procedimientos y demás disposiciones previstas en la legislación nacional del país miembro respectivo (Art. 34, Decisión 399 de 1997).
         .col-lg-4.mb-4.mx-3.tpbg.tpbg--4.ms-auto(data-aos='flip-right')
           img(src='@/assets/curso/t1/tarjetas-icon2.svg' alt='icono relacionado').w71px.my-5.mx-auto
           .text-center.texto-blanco
